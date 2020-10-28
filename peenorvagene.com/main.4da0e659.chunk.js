@@ -887,7 +887,7 @@
         Le = {
             uniswapFactory: "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
             uniswapFactoryV2: "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
-            SUSHI: "0xbf9fc1181b65542a552da563ae87a797eae208c0",
+            FUKT: "0xbf9fc1181b65542a552da563ae87a797eae208c0",
             picFEE: "0x825add9f83c27bc52d8af33c12755b6c7d70de9f",
             WETH: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             UNIRouter: "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
